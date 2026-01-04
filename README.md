@@ -1,5 +1,5 @@
 # 💫 About Me:
-Discord Bots<br>VS code Extensions<br>Chrome Extensions<br>TypeScript<br>Javasvript
+Discord Bots<br>VS code Extensions<br>Chrome Extensions<br>TypeScript<br>Javascript
 
 
 ## 🌐 Socials:
